@@ -26,46 +26,26 @@ Topics covered in Numpy:
 - working with strings in array
 - solving systems of equations
 
+Topics covered in Pandas:
 
-
-Some pandas topics you will find in the exercises:
-
-working with Series
-
-working with DatetimeIndex
-
-working with DataFrames
-
-reading/writing files
-
-working with different data types in DataFrames
-
-working with indexes
-
-working with missing values
-
-filtering data
-
-sorting data
-
-grouping data
-
-mapping columns
-
-computing correlation
-
-concatenating DataFrames
-
-calculating cumulative statistics
-
-working with duplicate values
-
-preparing data to machine learning models
-
-dummy encoding
-
-working with csv and json filles
-
-merging DataFrames
-pivot tables
+- working with Series
+- working with DatetimeIndex
+- working with DataFrames
+- reading/writing files
+- working with different data types in DataFrames
+- working with indexes
+- working with missing values
+- filtering data
+- sorting data
+- grouping data
+- mapping columns
+- computing correlation
+- concatenating DataFrames
+- calculating cumulative statistics
+- working with duplicate values
+- preparing data to machine learning models
+- dummy encoding
+- working with csv and json filles
+- merging DataFrames
+- pivot tables
 
