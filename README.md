@@ -1,6 +1,8 @@
 # Exercises - Python for Data Science - NumPy + Pandas
+
+This is the Repository for the Udemy course: [Exercises - Python for Data Science - NumPy + Pandas](https://www.udemy.com/course/python-for-data-science-numpy-pandas-exercises/)
  
-Topics covered in Numpy:
+** Topics covered in Numpy: **
 
 - working with numpy arrays
 - generating numpy arrays
@@ -26,7 +28,7 @@ Topics covered in Numpy:
 - working with strings in array
 - solving systems of equations
 
-Topics covered in Pandas:
+** Topics covered in Pandas: **
 
 - working with Series
 - working with DatetimeIndex
