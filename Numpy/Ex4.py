@@ -13,4 +13,4 @@ D = np.array([[0.1, 0.0]])
 
 list1 = [A,B,C,D]
 for letter, value in zip(list('ABCD'), list1):
-    print(f"{letter}: {np.any(value, axis = 0)}")
+    print(f"{letter}: {np.any(value)}")
